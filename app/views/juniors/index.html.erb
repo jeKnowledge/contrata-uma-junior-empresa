@@ -1,0 +1,15 @@
+<h1>Contrata uma Junior Empresa</h1>
+<ul>
+	<% @juniors.each do |junior| %>
+		<li><%= junior.name %></li>
+		<ul>
+			<% junior.categories.each do |category| %>
+				<li><%= category %></li>
+			<% end %>
+		</ul>
+		<li><%= junior.local %></li>
+		<li><%= junior.email %></li>
+		<li><%= junior.contact %></li>
+		<li><%= junior.website %></li>
+	<% end %>
+</ul>
