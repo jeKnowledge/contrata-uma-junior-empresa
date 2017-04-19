@@ -1,7 +1,8 @@
 class JuniorsController < ApplicationController
 
+	has_scope :by_local
 	def index
-		@juniors = Junior.all
+		@juniors = apply_scopes(Junior).all
 	end
 
 end
