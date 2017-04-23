@@ -1,0 +1,48 @@
+<manifest alg="2" build="2017.0.1.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster" exportTarget="other" domain="http://contrata-uma-junior-empresa.herokuapp.com,www.contrata-uma-junior.com,www.contrata-uma-junior.pt" resolutions="1x" timestamp="1492961642096">
+  <folder name="css">
+    <file name="site_global.css" crc="219945829"/>
+    <file name="master_b-master.css" crc="425573600" ref="consultoria:recursos-humanos:engenharia:informática"/>
+    <file name="nomq_preview_master_b-master.css" crc="3809775604" ref="consultoria:recursos-humanos:engenharia:informática"/>
+    <file name="master_a-master.css" crc="4265190431" ref="index"/>
+    <file name="nomq_preview_master_a-master.css" crc="497038320" ref="index"/>
+    <file name="index.css" crc="4009154135" ref="index"/>
+    <file name="nomq_index.css" crc="3935115214" ref="index"/>
+    <file name="consultoria.css" crc="259880341" ref="consultoria"/>
+    <file name="nomq_consultoria.css" crc="185367167" ref="consultoria"/>
+    <file name="recursos-humanos.css" crc="307049110" ref="recursos-humanos"/>
+    <file name="nomq_recursos-humanos.css" crc="499155259" ref="recursos-humanos"/>
+    <file name="engenharia.css" crc="4293238288" ref="engenharia"/>
+    <file name="nomq_engenharia.css" crc="417396437" ref="engenharia"/>
+    <file name="inform_tica.css" crc="4076836661" ref="informática"/>
+    <file name="nomq_inform_tica.css" crc="12965828" ref="informática"/>
+  </folder>
+  <folder name="assets">
+    <file name="jek-logo-white.png" crc="270652349" seo="true" mt="1492913061000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="museutils.js" crc="4148063285" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="whatinput.js" crc="86476730" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="museconfig.js" crc="4179431180" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="jquery.watch.js" crc="437028206" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="jquery.museresponsive.js" crc="3991890305" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="require.js" crc="4159430777" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+  </folder>
+  <folder name="images">
+    <file name="back2.jpg" crc="435176314" seo="true" ref="index"/>
+    <file name="jek-logogroup-4.svg" crc="4240035990" seo="true" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="jek logogroup 4_poster_.png" crc="3938685351" ref="index"/>
+    <file name="pasted-svg-205131x214.svg" crc="97620335" seo="true" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="pasted svg 205131x214_poster_.png" crc="3917298407" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="pasted-svg-90.svg" crc="3851317215" seo="true" ref="consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="pasted svg 90_poster_.png" crc="332091663" ref="consultoria"/>
+    <file name="jek-logogroup-5.svg" crc="4088313074" seo="true" ref="consultoria:engenharia:informática:recursos-humanos"/>
+    <file name="jek logogroup 5_poster_.png" crc="3824915058" ref="consultoria"/>
+  </folder>
+  <file name="index.html" crc="328568583" seo="true" mt="1492960839779" redirect="true"/>
+  <file name="consultoria.html" crc="3905498094" seo="true" mt="1492961508767" redirect="true"/>
+  <file name="engenharia.html" crc="405968080" seo="true" mt="1492961378613" redirect="true"/>
+  <file name="informática.html" crc="361985467" seo="true" mt="1492961387324" redirect="true"/>
+  <file name="recursos-humanos.html" crc="4262401847" seo="true" mt="1492961438557" redirect="true"/>
+</manifest>
