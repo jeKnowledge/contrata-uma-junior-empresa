@@ -1,4 +1,11 @@
 <h1>Contrata uma Junior Empresa</h1>
+
+<%= link_to "Todas"%>
+<%= link_to "Coimbra", by_local: "Coimbra" %>
+<%= link_to "Lisboa", by_local: "Lisboa" %>
+<%= link_to "Porto", by_local: "Porto" %>
+<%= link_to "Aveiro", by_local: "Aveiro" %>
+
 <ul>
 	<% @juniors.each do |junior| %>
 		<li><%= junior.name %></li>
@@ -11,5 +18,6 @@
 		<li><%= junior.email %></li>
 		<li><%= junior.contact %></li>
 		<li><%= junior.website %></li>
+		<br><br><br>
 	<% end %>
 </ul>
