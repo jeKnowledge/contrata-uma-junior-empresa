@@ -9,6 +9,7 @@
 <ul>
 	<% @juniors.each do |junior| %>
 		<li><%= junior.name %></li>
+		<img src="<%=junior.image %>" alt="">
 		<ul>
 			<% junior.categories.each do |category| %>
 				<li><%= category %></li>
